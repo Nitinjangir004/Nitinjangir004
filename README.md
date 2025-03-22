@@ -41,11 +41,12 @@ I love **building scalable applications, writing efficient code, and solving rea
 
 ### 🔹 **Libraries & Tools**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Zod-FF4081?style=for-the-badge&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=jwt,zod,bcrypt,passport.js,Mongoose,git,github,postman" />
+<!--   <img src="https://img.shields.io/badge/Zod-FF4081?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Bcrypt-3498db?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" /> -->
 </p>
 
 ### 🔹 **Computer Science & Dev Tools**  
