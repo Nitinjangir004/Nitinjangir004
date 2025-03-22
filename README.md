@@ -8,7 +8,7 @@
 
 ## 🧐 About Me  
 
-👨‍💻 **CS Enthusiast & Full-Stack Developer** with a strong interest in **Web Development, Java DSA, and Web3**. I love building **scalable applications, writing efficient code, and solving real-world problems.**  
+👨‍💻 **Full-Stack Developer** with a strong interest in **Web Development and Java DSA**. I love building **scalable applications, writing efficient code, and solving real-world problems.**  
 
 - 🔭 **Currently working on:** Full-Stack projects & Web3 Development  
 - 🌱 **Learning:** **Java DSA, Next.js, Smart Contracts (Sonic)**  
