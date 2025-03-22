@@ -11,40 +11,44 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto-Bold&size=30&color=%23F7A41D&center=true&vCenter=true&width=900&height=60&lines=🚀+Full-Stack+Developer;👨‍💻+Computer+Science+Student;🔥+Tech+Enthusiast;💡+Always+Learning!" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
-## 🧐 About Me  
+## 🌟 About Me  
 
-👨‍💻 **Full-Stack Developer** passionate about **Web Development, Java DSA, and Web3**.  
-I love building **scalable applications, writing efficient code, and solving real-world problems**.  
+💻 **Full-Stack Developer** passionate about **Web Development, Java DSA, and Web3**.  
+I love **building scalable applications, writing efficient code, and solving real-world problems.**  
 
-- 🔭 **Currently working on:** Full-Stack projects & Web3 Development  
+### 🎯 **Currently:**
+- 🔭 **Working on:** Full-Stack projects & Web3 Development  
 - 🌱 **Learning:** **Java DSA, Next.js, Smart Contracts (Sonic)**  
-- 🎯 **Goals:** Master Full-Stack Dev, Java DSA & get a tech internship  
-- 💬 **Ask me about:** **Web Dev, React.js, Node.js, or Java DSA**  
+- 🎯 **Goal:** Master Full-Stack Dev & secure a tech internship  
+- 💬 **Ask me about:** **Web Dev, React.js, Node.js, Java DSA**  
 - ⚡ **Fun Fact:** I spend more time debugging than coding! 🤣  
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🚀 Tech Stack & Skills  
 
-### 🚀 Frontend Development  
+### 🔹 **Frontend Development**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### 🛠 Backend Development  
+### 🔹 **Backend Development**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </p>
 
-### 📚 Libraries & Tools  
+### 🔹 **Libraries & Tools**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=jwt,docker,git,github,postman" />
+</p>
+
+### 🔹 **Computer Science & Dev Tools**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
