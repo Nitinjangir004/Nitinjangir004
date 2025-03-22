@@ -41,19 +41,14 @@ I love **building scalable applications, writing efficient code, and solving rea
 
 ### 🔹 **Libraries & Tools**  
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=jwt,zod,bcrypt,passport.js,Mongoose,git,github,postman" />
-<!--   <img src="https://img.shields.io/badge/Zod-FF4081?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-FF4081?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Bcrypt-3498db?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" /> -->
-</p>
-
-### 🔹 **Computer Science & Dev Tools**  
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
