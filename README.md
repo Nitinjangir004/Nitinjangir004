@@ -1,5 +1,10 @@
 <h1 align="center">🚀 Hey there! I'm <b>Nitin Jangir</b> 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto-Bold&size=30&color=%23F7A41D&center=true&vCenter=true&width=900&height=60&lines=🚀+Full-Stack+Developer;👨‍💻+Computer+Science+Student;🔥+Tech+Enthusiast;💡+Always+Learning!" />
+</p>
+
+---
 ## 🧐 About Me
 
 👨‍💻 **Full-Stack Developer** with a strong interest in **Web Development and Java DSA**. I love building **scalable applications, writing efficient code, and solving real-world problems.**
